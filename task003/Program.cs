@@ -9,5 +9,6 @@ if (numberOne%numberTwo == 0)
 }
 else
 {
+    Console.Write("Не является кратным, остаток от деления равен: ");
     Console.WriteLine(numberOne%numberTwo);
 }
